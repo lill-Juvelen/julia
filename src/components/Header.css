@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    justify-self: center;
+    align-items: center;
+    max-height: 500px;
+    max-width: 1500px;
+    background-color: rgb(250, 157, 186);
+    padding: 3px;
+  }
+  
